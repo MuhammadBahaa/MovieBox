@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.sunshine.app.DetailsActivity">
+    <item
+        android:id="@+id/select"
+        android:icon="@drawable/select"
+        android:title="action_bookmark"
+        app:showAsAction= "always"/>
+    <item
+        android:id="@+id/selected"
+        android:icon="@drawable/selected"
+        android:title="action_bookmark"
+        app:showAsAction="always" />
+
+
+</menu>
